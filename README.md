@@ -17,7 +17,7 @@ This software is developed mainly using some Python libraries and Tkinter framew
 8. **os:** This library will be used to delete audio files which will be generated during TTS.
 9. **emoji:** This module has been used to display 'heart' emoji at bottom right corner.
 
-### Commands to download libraries and modules:
+### Commands to install libraries and modules:
 1. **langdetect:** pip install langdetect
 2. **gtts:** pip install gtts
 3. **googletrans:** pip install googletrans==4.0.0-rc1
