@@ -24,4 +24,6 @@ This software is developed mainly using some Python libraries and Tkinter framew
 4. **playsound:** pip install playsound
 5. **emoji:** pip install emoji
 
-### Happy Coding :blush:
+### How to run it?
+1. Download the above file **Text to Speech.py**.
+2. After downloading, open the file with a code editor which can run Python files and then run it.
