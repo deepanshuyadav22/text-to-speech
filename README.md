@@ -1,10 +1,11 @@
 # Text to Speech
 
-This software is developed mainly using some Python libraries and Tkinter framework. It supports text to speech (TTS) in 107 languages. It can perform TTS from on a letter to on a whole paragraph and it can also perform TTS on a text file.
+It supports text to speech (TTS) in 107 languages. It can perform TTS from on a letter to on a whole paragraph and it can also perform TTS on a text file.
 
 ### Requirements:
 1. Python environment
 2. Several libraries and modules
+3. An active intrenet connection
 
 ### Required libraries and modules:
 1. **tkinter:** This library has been used to make GUI.
